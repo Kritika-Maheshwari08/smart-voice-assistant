@@ -17,10 +17,3 @@ This is a Python-powered desktop voice assistant that helps you **search Wikiped
 
 ---
 
-## 🧪 Live Demo
-
-🎯 Try it online (limited support for mic/audio):  
-👉 [Click to Run Live on Replit](https://replit.com/@your-username/KritikaVoiceAssistant)
-
-> *(Note: Replit may not support speech input/output fully — best experience is on your local machine.)*
-
