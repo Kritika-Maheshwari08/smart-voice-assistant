@@ -16,9 +16,3 @@ This is a Python-powered desktop voice assistant that helps you **search Wikiped
 - ❌ Quits on command
 
 ---
-
-## 💻 How to Run
-
-1. **Clone this repository**
-```bash
-git clone https://github.com/KritikaMaheshwari/KritikaVoiceAssistant.git
