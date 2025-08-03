@@ -17,3 +17,16 @@ This is a Python-powered desktop voice assistant that helps you **search Wikiped
 
 ---
 
+---
+
+### 4. **Add a Technologies Used Section**
+
+```markdown
+## 🛠️ Built With
+
+- Python 3
+- `pyttsx3` – for speech output
+- `speech_recognition` – for voice commands
+- `wikipedia` – for fetching summaries
+- `webbrowser`, `datetime`, `os` – built-in modules
+
