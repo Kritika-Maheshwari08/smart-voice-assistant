@@ -16,9 +16,12 @@ This is a Python-powered desktop voice assistant that helps you **search Wikiped
 - ❌ Quits on command
 
 ---
-## 🛠️ How to Run
+## 📦 How to Install and Run
 
-1. **Clone this repository**  
-   ```bash
-   git clone https://github.com/Kritika-Maheshwari08/smart-voice-assistant.git
-   cd smart-voice-assistant
+Make sure you have **Python 3.10 or later** installed.
+
+```bash
+git clone https://github.com/Kritika-Maheshwari08/smart-voice-assistant.git
+cd smart-voice-assistant
+pip install -r requirements.txt
+python Assistant.py
